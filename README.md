@@ -7,4 +7,4 @@ You can contact me on Discord as `Fime#9701` !
 
 I wrote some games (and other scripts) in python for the Numworks calculator : [profile link on the workshop](https://workshop.numworks.com/python/fime)
 
-Current goal : contribute to the Omega Numworks OS.
+Current goal : contribute to the Upsilon Numworks OS.
